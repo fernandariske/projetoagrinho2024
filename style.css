@@ -1,0 +1,14 @@
+cabeçalho{background-color:#0b455c; color: white; display: flex; justify-content: space-around;}   
+.imagem-logo{width: 80px;}
+.cabeçalho-lista{display: inline-block;margin:0 16px;}
+.site{background-color: rgb(87, 121, 161); color :rgb(22, 19, 22);}
+.imagem-camisas{width: 180px;height: 130px;}
+.camisasm-div{display: inline-block;}
+.moda{text-align: center;font-weight: 700;font-size: 20px;}
+.camisas{text-align:center;font-weight:700; font-size:20px;}
+.camisas{text-align: center;color: black;}
+.rodape{background-color: #0b455c;color: white; display: flex; justify-content: space-around;}
+.imagem-brinquedos{width: 180px;height: 130px;}
+.brinquedos-div{display: inline-block;}
+.imagem-roupas{width: 180px;height: 130px;}
+.roupaspet-div{display: inline-block;}
